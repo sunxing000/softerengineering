@@ -10,5 +10,3 @@
 - 后端技术：Spring + SpringMVC + MyBatis（SSM）
 - 前端框架：LayUI
 
-## 介绍
-基于SSM+Layui的图书管理系统
