@@ -1,4 +1,3 @@
-# Books Management System
 
 ## Stack
 
